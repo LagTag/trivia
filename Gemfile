@@ -70,3 +70,4 @@ group :test do
   gem 'rspec-rails'
   gem 'shoulda-matchers'
 end
+gem "graphiql-rails", group: :development
